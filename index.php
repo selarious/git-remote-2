@@ -10,6 +10,10 @@
     <h3>Hello World</h3>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam quaerat doloremque eligendi, beatae nisi enim vitae impedit dolorum doloribus voluptatem neque distinctio, facere, rem officia deleniti sit quidem veniam perferendis!
 </p>
-    
+    <ul>
+        <li>Nama </li>
+        <li> NIP </li>
+        <li> Tupoksi </li>
+</ul>
 </body>
 </html>
